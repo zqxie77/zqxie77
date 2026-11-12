@@ -1,7 +1,11 @@
-# zqxie
+<h1 align="center">Zequn Xie</h1>
 
-Hi, I’m zqxie, a graduate student at Zhejiang University.
+<p align="center">
+  Graduate student at <strong>Zhejiang University</strong>
+</p>
 
-📫 [zqxie@zju.edu.cn](mailto:zqxie@zju.edu.cn)
-
-[Personal Homepage](https://zqxie77.github.io/) · [ORCID](https://orcid.org/0009-0007-5021-7565)
+<p align="center">
+  <a href="https://zqxie77.github.io/">Homepage</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:zqxie@zju.edu.cn">zqxie@zju.edu.cn</a>
+</p>
