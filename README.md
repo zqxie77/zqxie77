@@ -1,11 +1,6 @@
-<h1 align="center">Zequn Xie</h1>
+# Zequn Xie
 
-<p align="center">
-  Graduate student at <strong>Zhejiang University</strong>
-</p>
+Hello! I’m a graduate student at Zhejiang University.
 
-<p align="center">
-  <a href="https://zqxie77.github.io/">Homepage</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:zqxie@zju.edu.cn">zqxie@zju.edu.cn</a>
-</p>
+🌐 Learn more about me and my work on my [personal homepage](https://zqxie77.github.io/).  
+📫 Feel free to reach out at [zqxie@zju.edu.cn](mailto:zqxie@zju.edu.cn).
